@@ -1,0 +1,35 @@
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Application Data / Runtime Generated Files
+settings.json
+history.json
+stats.json
+logs/
+app.log
+*.log
+
+# Asset generation caching
+assets/icons/
+
+# IDE / Code Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Specific
+.DS_Store
+Thumbs.db
